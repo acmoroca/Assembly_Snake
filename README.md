@@ -7,4 +7,5 @@ Run on https://peterhigginson.co.uk/AQA/ by:
 3. Click on the OPTIONS button
 4. Select def fast
 5. Hit RUN
+
 Use WASD to control the snake in the little ouput screen
